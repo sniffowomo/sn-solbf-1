@@ -7,11 +7,11 @@ https://docs.moralis.io/web3-data-api/evm/how-to-get-all-transactions-of-an-addr
 - This one is going to be your own
 '''
 
-from pprint import pprint # Required for pretty print 
-from moralis import evm_api # Require for moralis 
-import requests # Requires for accesing moralis API
-import os # Required for calling system commands 
-import subprocess # Also required for calling system commands
+from pprint import pprint  # Required for pretty print
+from moralis import evm_api  # Require for moralis
+import requests  # Requires for accesing moralis API
+import os  # Required for calling system commands
+import subprocess  # Also required for calling system commands
 
 
 api_key = "yL8KDGXJrrRXwRrgZMAEUvCUM13sCXmNuBwUYvAmMl2BVER5kNn8zz3CQmJv3b1A"
