@@ -1,0 +1,28 @@
+
+---------------------------------------
+New Wallet 1
+Successfully created new keypair.
+Address: 0xF46B3aC043D62DEE21a1FE3Bc09C17Cc4Af74966
+Private Key: 0x2a631188f2e785af97a4e2acd967795e327246973468ba41f2d24dd5c43056da
+---------------------------------------
+
+---------------------------------------
+New Wallet 2
+Successfully created new keypair.
+Address: 0x6A13f9d55793b6eead84A686bDbf91Dcb47cC27c
+Private Key: 0x7a1410f87afc11a95c79a10998686e2676ec971941eaa675c181c52f163f1210
+---------------------------------------
+
+---------------------------------------
+New Wallet 3
+Successfully created new keypair.
+Address: 0x9583fB3C77E6B45d5aE6E0c3d14ddE74Db932fE5
+Private Key: 0xa33f437370b5aa2ea721522e76b4c16ba5b9209b5050dd2fd07020e3ff41ee6c
+---------------------------------------
+
+---------------------------------------
+New Wallet 4
+Successfully created new keypair.
+Address: 0xcAef433f6bca68d1549c5e80b7Ddc42e3153CdF7
+Private Key: 0x657eb4161644d50e155e68a3bdc427a9c497adf5e8964d1ebd9bea6092d2292e
+---------------------------------------
