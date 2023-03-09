@@ -5,3 +5,5 @@
 ![](/JP1/media/videos/t11/1080p60/SquareToCircle.mp4)
 
 ![](./JP1/media/videos/t11/1080p60/SquareToCircle.webm)
+
+$$\Huge Rendering \ Manim \ on \ codespaces \ is \ not \ a \ good \ idea  $$
