@@ -4,4 +4,4 @@
 
 ![](/JP1/media/videos/t11/1080p60/SquareToCircle.mp4)
 
-![](./JP1/media/videos/t11/1080p60/SquareToCircle_ManimCE_v0.17.2.gif)
+<img src="./JP1/media/videos/t11/1080p60/SquareToCircle_ManimCE_v0.17.2.gif">
